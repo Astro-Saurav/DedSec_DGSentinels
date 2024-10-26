@@ -1,6 +1,6 @@
 # DedSec: Security-Oriented Code Debugging
 
-### Author: Saurav Kumar
+# Author: Saurav Kumar
 
 Welcome to **DedSec**, a debugging contest hosted by DGSentinels from SCA - MRIIRS! Test your skills across various levels of challenges, from beginner-friendly debugging to expert-level reverse engineering in C Language.
 
@@ -49,4 +49,6 @@ Below is an overview of the challenges and their difficulty levels:
    - **Success Rate**: 0.00%
    - **Max Score**: 500
    - **Difficulty**: Hard
+  
+# Author: Saurav Kumar
 
