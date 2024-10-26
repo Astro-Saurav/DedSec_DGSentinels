@@ -1,7 +1,5 @@
 # DedSec: Security-Oriented Code Debugging
 
-# Author: Saurav Kumar
-
 Welcome to **DedSec**, a debugging contest hosted by DGSentinels from SCA - MRIIRS! Test your skills across various levels of challenges, from beginner-friendly debugging to expert-level reverse engineering in C Language.
 
 ## Contest Overview
